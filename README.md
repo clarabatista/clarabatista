@@ -12,14 +12,26 @@ Currently, I work at a local health unit in my city, but I'm actively building m
 
 ---
 
+### 🚀 My Project
+
+* Check out my project, **[TaskEdu](http://www.taskedu.site/)**, now live!
+
+This project was built together with:
+
+<a href="https://github.com/giovannapennisi" target="_blank">
+  <img src="https://github.com/giovannapennisi.png" width="50" height="50" alt="Giovanna Pennisi" style="border-radius:50%;">
+</a>
+<a href="https://github.com/sofiaclsantos" target="_blank">
+  <img src="https://github.com/sofiaclsantos.png" width="50" height="50" alt="Sofia Santos" style="border-radius:50%;">
+</a>
+
+---
+
 ### 💻 What I'm Learning
 
-<p align="left">
-   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original-wordmark.svg" width="36" height="36" alt="Haskell" title="Haskell" /></a>&nbsp;
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>&nbsp;
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="36" width="36" alt="PostgreSQL" title="PostgreSQL" /></a>
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=css,git,github,html,java,js,postgresql,spring,vscode" />  </a>
 </p>
 
 ---
