@@ -31,7 +31,7 @@ This project was built together with:
 
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=css,git,github,html,java,js,postgresql,spring,vscode" />  </a>
+   <img src="https://skillicons.dev/icons?i=css,git,html,js,java,postgresql,spring,vscode" />  </a>
 </p>
 
 ---
